@@ -1,5 +1,10 @@
 # Employee Attrition Analysis
 
+![Dashboard](Dashboard.png)
+
+
+# Employee Attrition Analysis
+
 ## Project Overview
 This project analyzes employee attrition using Power BI to identify key factors influencing employee turnover and support HR decision-making.
 
